@@ -45,7 +45,12 @@ npm run deploy
 ```
 
 ## Screenshots
-_Add screenshots of your app here if desired._
+![image](https://github.com/user-attachments/assets/36e2301d-f5ee-4ff3-a754-726ba2a32915)
+![image](https://github.com/user-attachments/assets/13d57c3e-e3e4-4b48-9f89-1f9def706d24)
+![image](https://github.com/user-attachments/assets/cb038033-b589-48be-8b6b-16d89fc8aa2c)
+
+
+
 
 ## License
 This project is for educational purposes.
